@@ -1,0 +1,222 @@
+{
+    "states": [
+        {
+            "id": 2,
+            "name": "Cancún",
+            "services": [
+                {
+                    "id": 1,
+                    "code": "lugar",
+                    "name": "Lugares"
+                },
+                {
+                    "id": 2,
+                    "code": "hotel",
+                    "name": "Hoteles"
+                },
+                {
+                    "id": 3,
+                    "code": "nautico",
+                    "name": "Náuticos"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "México",
+            "services": [
+                {
+                    "id": 1,
+                    "code": "lugar",
+                    "name": "Lugares"
+                },
+                {
+                    "id": 2,
+                    "code": "hotel",
+                    "name": "Hoteles"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Chiapas",
+            "services": [
+                {
+                    "id": 1,
+                    "code": "lugar",
+                    "name": "Lugares"
+                },
+                {
+                    "id": 2,
+                    "code": "hotel",
+                    "name": "Hoteles"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Veracruz",
+            "services": [
+                {
+                    "id": 1,
+                    "code": "lugar",
+                    "name": "Lugares"
+                },
+                {
+                    "id": 2,
+                    "code": "hotel",
+                    "name": "Hoteles"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Tabasco",
+            "services": [
+                {
+                    "id": 1,
+                    "code": "lugar",
+                    "name": "Lugares"
+                },
+                {
+                    "id": 2,
+                    "code": "hotel",
+                    "name": "Hoteles"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Campeche",
+            "services": [
+                {
+                    "id": 1,
+                    "code": "lugar",
+                    "name": "Lugares"
+                },
+                {
+                    "id": 2,
+                    "code": "hotel",
+                    "name": "Hoteles"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Yucatan",
+            "services": [
+                {
+                    "id": 1,
+                    "code": "lugar",
+                    "name": "Lugares"
+                },
+                {
+                    "id": 2,
+                    "code": "hotel",
+                    "name": "Hoteles"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Monterrey",
+            "services": [
+                {
+                    "id": 1,
+                    "code": "lugar",
+                    "name": "Lugares"
+                },
+                {
+                    "id": 2,
+                    "code": "hotel",
+                    "name": "Hoteles"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Puebla",
+            "services": [
+                {
+                    "id": 1,
+                    "code": "lugar",
+                    "name": "Lugares"
+                },
+                {
+                    "id": 2,
+                    "code": "hotel",
+                    "name": "Hoteles"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Michoacan",
+            "services": [
+                {
+                    "id": 1,
+                    "code": "lugar",
+                    "name": "Lugares"
+                },
+                {
+                    "id": 2,
+                    "code": "hotel",
+                    "name": "Hoteles"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "San Luis Potosí",
+            "services": [
+                {
+                    "id": 1,
+                    "code": "lugar",
+                    "name": "Lugares"
+                },
+                {
+                    "id": 2,
+                    "code": "hotel",
+                    "name": "Hoteles"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Acapulco",
+            "services": [
+                {
+                    "id": 1,
+                    "code": "lugar",
+                    "name": "Lugares"
+                },
+                {
+                    "id": 2,
+                    "code": "hotel",
+                    "name": "Hoteles"
+                },
+                {
+                    "id": 3,
+                    "code": "nautico",
+                    "name": "Náuticos"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Baja California Sur",
+            "services": [
+                {
+                    "id": 1,
+                    "code": "lugar",
+                    "name": "Lugares"
+                },
+                {
+                    "id": 2,
+                    "code": "hotel",
+                    "name": "Hoteles"
+                }
+            ]
+        }
+    ]
+}
