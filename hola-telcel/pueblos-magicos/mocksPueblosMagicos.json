@@ -13,6 +13,7 @@
                 "streaming": "https://www.sicssalab.net/contenido/pueblos-magicos/bernal/2.mp4",
                 "hasActiveStreaming": true,
                 "videos": [
+                    "https://www.sicssalab.net/contenido/pueblos-magicos/bernal/2.mp4"
                 ],
                 "comments": [
                     {
@@ -223,7 +224,7 @@
                 "streaming": "https://www.sicssalab.net/assets/contenido/pueblos-magicos/velle-bravo/6.mp4",
                 "hasActiveStreaming": false,
                 "videos": [
-                    "https://www.sicssalab.net/contenido/pueblos-magicos/velle-bravo/5.mp4"
+                    "https://www.sicssalab.net/contenido/pueblos-magicos/velle-bravo/1.mp4"
                 ],
                 "comments": [
                     {
@@ -289,6 +290,7 @@
                 "streaming": "https://www.sicssalab.net/contenido/pueblos-magicos/zacatlan/3.mp4",
                 "hasActiveStreaming": true,
                 "videos": [
+                    "https://www.sicssalab.net/contenido/pueblos-magicos/zacatlan/3.mp4"
                 ],
                 "comments": [
                     {
