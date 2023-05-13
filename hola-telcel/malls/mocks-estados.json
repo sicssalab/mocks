@@ -1,0 +1,262 @@
+{
+    "states": [
+        {
+            "id": 2,
+            "name": "Quintana Roo",
+            "items": [
+                {
+                    "id": 1,
+                    "picture": "https://www.sicssalab.net/contenido/centros-comerciales/quintana-roo/centro-1/avatar.jpg",
+                    "createDate": "7hrs",
+                    "name": "La isla Cancún",
+                    "description": "",
+                    "likes": 456,
+                    "videos": [
+                        "https://www.sicssalab.net/contenido/centros-comerciales/quintana-roo/centro-1/1.mp4"
+                    ],
+                    "comments": [
+                        {
+                            "id": 5,
+                            "userName": "Maxime Nienow",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/beautiful-woman-red-hair-in-frame-circular-avatar-character-free-vector.webp",
+                            "comment": "¡Las llantas pirelli son lo mejor!",
+                            "createDate": "2seg"
+                        },
+                        {
+                            "id": 6,
+                            "userName": "Ellsworth Summit",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
+                            "comment": "La calidad y seguridad de pirelli es muy buena.",
+                            "createDate": "1hr"
+                        },
+                        {
+                            "id": 7,
+                            "userName": "John Smith",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
+                            "comment": "Las llantas Pirelli son la mejor opción para cualquier vehículo.",
+                            "createDate": "4hrs"
+                        },
+                        {
+                            "id": 8,
+                            "userName": "Emily Davis",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
+                            "comment": "Son duraderas y ofrecen un rendimiento de conducción superior en cualquier condición climática.",
+                            "createDate": "7hrs"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "picture": "https://www.sicssalab.net/contenido/centros-comerciales/quintana-roo/centro-2/avatar.jpg",
+                    "createDate": "7hrs",
+                    "name": "Las americas",
+                    "description": "",
+                    "likes": 456,
+                    "videos": [
+                        "https://www.sicssalab.net/contenido/centros-comerciales/quintana-roo/centro-2/1.mp4"
+                    ],
+                    "comments": [
+                        {
+                            "id": 5,
+                            "userName": "Maxime Nienow",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/beautiful-woman-red-hair-in-frame-circular-avatar-character-free-vector.webp",
+                            "comment": "¡Las llantas pirelli son lo mejor!",
+                            "createDate": "2seg"
+                        },
+                        {
+                            "id": 6,
+                            "userName": "Ellsworth Summit",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
+                            "comment": "La calidad y seguridad de pirelli es muy buena.",
+                            "createDate": "1hr"
+                        },
+                        {
+                            "id": 7,
+                            "userName": "John Smith",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
+                            "comment": "Las llantas Pirelli son la mejor opción para cualquier vehículo.",
+                            "createDate": "4hrs"
+                        },
+                        {
+                            "id": 8,
+                            "userName": "Emily Davis",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
+                            "comment": "Son duraderas y ofrecen un rendimiento de conducción superior en cualquier condición climática.",
+                            "createDate": "7hrs"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "picture": "https://www.sicssalab.net/contenido/centros-comerciales/quintana-roo/centro-3/avatar.jpg",
+                    "createDate": "7hrs",
+                    "name": "Marina Puerto Cancún",
+                    "description": "",
+                    "likes": 456,
+                    "videos": [
+                        "https://www.sicssalab.net/contenido/centros-comerciales/quintana-roo/centro-3/1.mp4"
+                    ],
+                    "comments": [
+                        {
+                            "id": 5,
+                            "userName": "Maxime Nienow",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/beautiful-woman-red-hair-in-frame-circular-avatar-character-free-vector.webp",
+                            "comment": "¡Las llantas pirelli son lo mejor!",
+                            "createDate": "2seg"
+                        },
+                        {
+                            "id": 6,
+                            "userName": "Ellsworth Summit",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
+                            "comment": "La calidad y seguridad de pirelli es muy buena.",
+                            "createDate": "1hr"
+                        },
+                        {
+                            "id": 7,
+                            "userName": "John Smith",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
+                            "comment": "Las llantas Pirelli son la mejor opción para cualquier vehículo.",
+                            "createDate": "4hrs"
+                        },
+                        {
+                            "id": 8,
+                            "userName": "Emily Davis",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
+                            "comment": "Son duraderas y ofrecen un rendimiento de conducción superior en cualquier condición climática.",
+                            "createDate": "7hrs"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Ciudad de México",
+            "items": [
+                {
+                    "id": 4,
+                    "picture": "https://www.sicssalab.net/contenido/centros-comerciales/mexico/centro-1/avatar.jpg",
+                    "createDate": "7hrs",
+                    "name": "Antara",
+                    "description": "",
+                    "likes": 456,
+                    "videos": [
+                        "https://www.sicssalab.net/contenido/centros-comerciales/mexico/centro-1/1.mp4"
+                    ],
+                    "comments": [
+                        {
+                            "id": 5,
+                            "userName": "Maxime Nienow",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/beautiful-woman-red-hair-in-frame-circular-avatar-character-free-vector.webp",
+                            "comment": "¡Las llantas pirelli son lo mejor!",
+                            "createDate": "2seg"
+                        },
+                        {
+                            "id": 6,
+                            "userName": "Ellsworth Summit",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
+                            "comment": "La calidad y seguridad de pirelli es muy buena.",
+                            "createDate": "1hr"
+                        },
+                        {
+                            "id": 7,
+                            "userName": "John Smith",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
+                            "comment": "Las llantas Pirelli son la mejor opción para cualquier vehículo.",
+                            "createDate": "4hrs"
+                        },
+                        {
+                            "id": 8,
+                            "userName": "Emily Davis",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
+                            "comment": "Son duraderas y ofrecen un rendimiento de conducción superior en cualquier condición climática.",
+                            "createDate": "7hrs"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "picture": "https://www.sicssalab.net/contenido/centros-comerciales/mexico/centro-2/avatar.jpg",
+                    "createDate": "7hrs",
+                    "name": "Mundo e",
+                    "description": "",
+                    "likes": 456,
+                    "videos": [
+                        "https://www.sicssalab.net/contenido/centros-comerciales/mexico/centro-2/1.mp4"
+                    ],
+                    "comments": [
+                        {
+                            "id": 5,
+                            "userName": "Maxime Nienow",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/beautiful-woman-red-hair-in-frame-circular-avatar-character-free-vector.webp",
+                            "comment": "¡Las llantas pirelli son lo mejor!",
+                            "createDate": "2seg"
+                        },
+                        {
+                            "id": 6,
+                            "userName": "Ellsworth Summit",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
+                            "comment": "La calidad y seguridad de pirelli es muy buena.",
+                            "createDate": "1hr"
+                        },
+                        {
+                            "id": 7,
+                            "userName": "John Smith",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
+                            "comment": "Las llantas Pirelli son la mejor opción para cualquier vehículo.",
+                            "createDate": "4hrs"
+                        },
+                        {
+                            "id": 8,
+                            "userName": "Emily Davis",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
+                            "comment": "Son duraderas y ofrecen un rendimiento de conducción superior en cualquier condición climática.",
+                            "createDate": "7hrs"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "picture": "https://www.sicssalab.net/contenido/centros-comerciales/mexico/centro-3/avatar.jpg",
+                    "createDate": "7hrs",
+                    "name": "Oasis Coyoacán",
+                    "description": "",
+                    "likes": 456,
+                    "videos": [
+                        "https://www.sicssalab.net/contenido/centros-comerciales/mexico/centro-3/1.mp4"
+                    ],
+                    "comments": [
+                        {
+                            "id": 5,
+                            "userName": "Maxime Nienow",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/beautiful-woman-red-hair-in-frame-circular-avatar-character-free-vector.webp",
+                            "comment": "¡Las llantas pirelli son lo mejor!",
+                            "createDate": "2seg"
+                        },
+                        {
+                            "id": 6,
+                            "userName": "Ellsworth Summit",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
+                            "comment": "La calidad y seguridad de pirelli es muy buena.",
+                            "createDate": "1hr"
+                        },
+                        {
+                            "id": 7,
+                            "userName": "John Smith",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
+                            "comment": "Las llantas Pirelli son la mejor opción para cualquier vehículo.",
+                            "createDate": "4hrs"
+                        },
+                        {
+                            "id": 8,
+                            "userName": "Emily Davis",
+                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
+                            "comment": "Son duraderas y ofrecen un rendimiento de conducción superior en cualquier condición climática.",
+                            "createDate": "7hrs"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
