@@ -1,7 +1,7 @@
 {
     "states": [
         {
-            "id": 2,
+            "id": 1,
             "name": "Cancún",
             "services": [
                 {
@@ -22,13 +22,18 @@
             ]
         },
         {
-            "id": 1,
+            "id": 2,
             "name": "México",
             "services": [
                 {
                     "id": 1,
                     "code": "lugar",
                     "name": "Lugares"
+                },
+                {
+                    "id": 2,
+                    "code": "hotel",
+                    "name": "Hoteles"
                 },
                 {
                     "id": 2,
@@ -215,6 +220,11 @@
                     "id": 2,
                     "code": "hotel",
                     "name": "Hoteles"
+                },
+                {
+                    "id": 3,
+                    "code": "nautico",
+                    "name": "Náuticos"
                 }
             ]
         }
