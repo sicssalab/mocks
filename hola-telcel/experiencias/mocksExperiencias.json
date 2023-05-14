@@ -180,7 +180,7 @@
     },
     {
       "id": 3,
-      "state_id": 2,
+      "state_id": 1,
       "service_id": 1,
       "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/1-quintana-roo/lugar-2/avatar.jpeg",
       "createDate": "3sem",
@@ -222,7 +222,7 @@
       "id": 4,
       "state_id": 1,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/avatar.png",
       "createDate": "1d",
       "name": "Hotel Moon Palace",
       "description": "Ven y conoce las mejores instalaciones, todo para unas vacaciones magníficas: energía, lujo y posibilidades infinitas: comida gourmet, bebidas premium ilimitadas y mucho más.",
@@ -232,7 +232,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/1.mp4"
       ],
       "comments": [
         {
@@ -297,7 +297,7 @@
       "id": 5,
       "state_id": 1,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-le-blanc/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/avatar.png",
       "createDate": "1d",
       "name": "Holel Le Blanc",
       "likes": 367,
@@ -306,7 +306,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
       ],
       "description": "El lujo y la sofisticación le esperan para unas vacaciones como ninguna en nuestro Resorts Le Blanc",
       "comments": [
@@ -372,7 +372,7 @@
       "id": 6,
       "state_id": 1,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/avatar.png",
       "createDate": "1d",
       "name": "Hotel Nikelodeon",
       "likes": 367,
@@ -381,7 +381,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/1.mp4"
       ],
       "description": "Vive unas vacaciones de otro mundo en el hotel Nikelodeon y descubre las maravillas que éste destino tiene para ti.",
       "comments": [
@@ -447,7 +447,7 @@
       "id": 7,
       "state_id": 1,
       "service_id": 3,
-      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/1-quintana-roo/nautico-1/avatar.jpeg",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/1-quintana-roo/nautico-1/avatar.jpg",
       "createDate": "1d",
       "name": "Snorkel",
       "description": "Descubre un mundo nuevo, con una experiencia náutica inolvidable",
@@ -487,7 +487,7 @@
       "id": 8,
       "state_id": 2,
       "service_id": 1,
-      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/2-México/avatar.jpeg",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/2-mexico/avatar.jpeg",
       "createDate": "3min",
       "name": "CDMX",
       "likes": 456,
@@ -497,7 +497,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-de-experiencia/2-México/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/2-mexico/1.mp4"
       ],
       "comments": [
         {
@@ -576,7 +576,7 @@
       "id": 9,
       "state_id": 2,
       "service_id": 1,
-      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/2-México/lugar-1/avatar.jpeg",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/2-mexico/lugar-1/avatar.jpeg",
       "createDate": "3sem",
       "name": "MUSEO SOUMAYA",
       "likes": 456,
@@ -586,7 +586,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-de-experiencia/2-México/lugar-1/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/2-mexico/lugar-1/1.mp4"
       ],
       "comments": [
         {
@@ -658,7 +658,7 @@
       "id": 10,
       "state_id": 2,
       "service_id": 1,
-      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/2-México/lugar-2/avatar.jpeg",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/2-mexico/lugar-2/avatar.jpeg",
       "createDate": "3sem",
       "name": "Castillo de Chapultepec",
       "likes": 456,
@@ -668,7 +668,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-de-experiencia/2-México/lugar-2/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/2-mexico/lugar-2/1.mp4"
       ],
       "comments": [
         {
@@ -698,7 +698,7 @@
       "id": 11,
       "state_id": 2,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/avatar.png",
       "createDate": "1d",
       "name": "Hotel Moon Palace",
       "description": "Ven y conoce las mejores instalaciones, todo para unas vacaciones magníficas: energía, lujo y posibilidades infinitas: comida gourmet, bebidas premium ilimitadas y mucho más.",
@@ -708,7 +708,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/1.mp4"
       ],
       "comments": [
         {
@@ -773,7 +773,7 @@
       "id": 12,
       "state_id": 2,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-le-blanc/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/avatar.png",
       "createDate": "1d",
       "name": "Holel Le Blanc",
       "likes": 367,
@@ -782,7 +782,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
       ],
       "description": "El lujo y la sofisticación le esperan para unas vacaciones como ninguna en nuestro Resorts Le Blanc",
       "comments": [
@@ -848,7 +848,7 @@
       "id": 13,
       "state_id": 2,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/avatar.png",
       "createDate": "1d",
       "name": "Hotel Nikelodeon",
       "likes": 367,
@@ -857,7 +857,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/1.mp4"
       ],
       "description": "Vive unas vacaciones de otro mundo en el hotel Nikelodeon y descubre las maravillas que éste destino tiene para ti.",
       "comments": [
@@ -923,7 +923,7 @@
       "id": 14,
       "state_id": 2,
       "service_id": 3,
-      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/2-México/nautico-1/avatar.jpeg",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/2-mexico/nautico-1/avatar.jpeg",
       "createDate": "1d",
       "name": "Las Trajineras",
       "description": "Xochimilco: Cuando uno piensa en México, piensa en colores vivos, mariachis y cactus. ¿Es un cliché? ¡Pues no tanto! Son parte importante de la cultura mexicana y puedes encontrarlos en el barrio de Xochimilco: ¡una visita obligada en la Ciudad de México! ",
@@ -933,7 +933,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-de-experiencia/2-México/nauticos-1/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/2-mexico/nauticos-1/1.mp4"
       ],
       "comments": [
         {
@@ -1132,7 +1132,7 @@
       "id": 18,
       "state_id": 3,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/avatar.png",
       "createDate": "1d",
       "name": "Hotel Moon Palace",
       "description": "Ven y conoce las mejores instalaciones, todo para unas vacaciones magníficas: energía, lujo y posibilidades infinitas: comida gourmet, bebidas premium ilimitadas y mucho más.",
@@ -1142,7 +1142,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/1.mp4"
       ],
       "comments": [
         {
@@ -1207,7 +1207,7 @@
       "id": 19,
       "state_id": 3,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-le-blanc/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/avatar.png",
       "createDate": "1d",
       "name": "Holel Le Blanc",
       "likes": 367,
@@ -1216,7 +1216,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
       ],
       "description": "El lujo y la sofisticación le esperan para unas vacaciones como ninguna en nuestro Resorts Le Blanc",
       "comments": [
@@ -1282,7 +1282,7 @@
       "id": 20,
       "state_id": 3,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/avatar.png",
       "createDate": "1d",
       "name": "Hotel Nikelodeon",
       "likes": 367,
@@ -1291,7 +1291,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/1.mp4"
       ],
       "description": "Vive unas vacaciones de otro mundo en el hotel Nikelodeon y descubre las maravillas que éste destino tiene para ti.",
       "comments": [
@@ -1526,7 +1526,7 @@
       "id": 24,
       "state_id": 4,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/avatar.png",
       "createDate": "1d",
       "name": "Hotel Moon Palace",
       "description": "Ven y conoce las mejores instalaciones, todo para unas vacaciones magníficas: energía, lujo y posibilidades infinitas: comida gourmet, bebidas premium ilimitadas y mucho más.",
@@ -1536,7 +1536,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/1.mp4"
       ],
       "comments": [
         {
@@ -1601,7 +1601,7 @@
       "id": 25,
       "state_id": 4,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-le-blanc/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/avatar.png",
       "createDate": "1d",
       "name": "Holel Le Blanc",
       "likes": 367,
@@ -1610,7 +1610,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
       ],
       "description": "El lujo y la sofisticación le esperan para unas vacaciones como ninguna en nuestro Resorts Le Blanc",
       "comments": [
@@ -1676,7 +1676,7 @@
       "id": 26,
       "state_id": 4,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/avatar.png",
       "createDate": "1d",
       "name": "Hotel Nikelodeon",
       "likes": 367,
@@ -1685,7 +1685,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/1.mp4"
       ],
       "description": "Vive unas vacaciones de otro mundo en el hotel Nikelodeon y descubre las maravillas que éste destino tiene para ti.",
       "comments": [
@@ -1920,7 +1920,7 @@
       "id": 30,
       "state_id": 5,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/avatar.png",
       "createDate": "1d",
       "name": "Hotel Moon Palace",
       "description": "Ven y conoce las mejores instalaciones, todo para unas vacaciones magníficas: energía, lujo y posibilidades infinitas: comida gourmet, bebidas premium ilimitadas y mucho más.",
@@ -1930,7 +1930,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/1.mp4"
       ],
       "comments": [
         {
@@ -1995,7 +1995,7 @@
       "id": 31,
       "state_id": 5,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-le-blanc/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/avatar.png",
       "createDate": "1d",
       "name": "Holel Le Blanc",
       "likes": 367,
@@ -2004,7 +2004,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
       ],
       "description": "El lujo y la sofisticación le esperan para unas vacaciones como ninguna en nuestro Resorts Le Blanc",
       "comments": [
@@ -2070,7 +2070,7 @@
       "id": 32,
       "state_id": 5,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/avatar.png",
       "createDate": "1d",
       "name": "Hotel Nikelodeon",
       "likes": 367,
@@ -2079,7 +2079,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/1.mp4"
       ],
       "description": "Vive unas vacaciones de otro mundo en el hotel Nikelodeon y descubre las maravillas que éste destino tiene para ti.",
       "comments": [
@@ -2314,7 +2314,7 @@
       "id": 36,
       "state_id": 6,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/avatar.png",
       "createDate": "1d",
       "name": "Hotel Moon Palace",
       "description": "Ven y conoce las mejores instalaciones, todo para unas vacaciones magníficas: energía, lujo y posibilidades infinitas: comida gourmet, bebidas premium ilimitadas y mucho más.",
@@ -2324,7 +2324,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/1.mp4"
       ],
       "comments": [
         {
@@ -2389,7 +2389,7 @@
       "id": 37,
       "state_id": 6,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-le-blanc/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/avatar.png",
       "createDate": "1d",
       "name": "Holel Le Blanc",
       "likes": 367,
@@ -2398,7 +2398,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
       ],
       "description": "El lujo y la sofisticación le esperan para unas vacaciones como ninguna en nuestro Resorts Le Blanc",
       "comments": [
@@ -2464,7 +2464,7 @@
       "id": 38,
       "state_id": 6,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/avatar.png",
       "createDate": "1d",
       "name": "Hotel Nikelodeon",
       "likes": 367,
@@ -2473,7 +2473,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/1.mp4"
       ],
       "description": "Vive unas vacaciones de otro mundo en el hotel Nikelodeon y descubre las maravillas que éste destino tiene para ti.",
       "comments": [
@@ -2708,7 +2708,7 @@
       "id": 42,
       "state_id": 7,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/avatar.png",
       "createDate": "1d",
       "name": "Hotel Moon Palace",
       "description": "Ven y conoce las mejores instalaciones, todo para unas vacaciones magníficas: energía, lujo y posibilidades infinitas: comida gourmet, bebidas premium ilimitadas y mucho más.",
@@ -2718,7 +2718,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/1.mp4"
       ],
       "comments": [
         {
@@ -2783,7 +2783,7 @@
       "id": 43,
       "state_id": 7,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-le-blanc/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/avatar.png",
       "createDate": "1d",
       "name": "Holel Le Blanc",
       "likes": 367,
@@ -2792,7 +2792,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
       ],
       "description": "El lujo y la sofisticación le esperan para unas vacaciones como ninguna en nuestro Resorts Le Blanc",
       "comments": [
@@ -2858,7 +2858,7 @@
       "id": 44,
       "state_id": 7,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/avatar.png",
       "createDate": "1d",
       "name": "Hotel Nikelodeon",
       "likes": 367,
@@ -2867,7 +2867,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/1.mp4"
       ],
       "description": "Vive unas vacaciones de otro mundo en el hotel Nikelodeon y descubre las maravillas que éste destino tiene para ti.",
       "comments": [
@@ -3102,7 +3102,7 @@
       "id": 48,
       "state_id": 8,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/avatar.png",
       "createDate": "1d",
       "name": "Hotel Moon Palace",
       "description": "Ven y conoce las mejores instalaciones, todo para unas vacaciones magníficas: energía, lujo y posibilidades infinitas: comida gourmet, bebidas premium ilimitadas y mucho más.",
@@ -3112,7 +3112,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/1.mp4"
       ],
       "comments": [
         {
@@ -3177,7 +3177,7 @@
       "id": 49,
       "state_id": 8,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-le-blanc/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/avatar.png",
       "createDate": "1d",
       "name": "Holel Le Blanc",
       "likes": 367,
@@ -3186,7 +3186,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
       ],
       "description": "El lujo y la sofisticación le esperan para unas vacaciones como ninguna en nuestro Resorts Le Blanc",
       "comments": [
@@ -3252,7 +3252,7 @@
       "id": 50,
       "state_id": 8,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/avatar.png",
       "createDate": "1d",
       "name": "Hotel Nikelodeon",
       "likes": 367,
@@ -3261,7 +3261,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/1.mp4"
       ],
       "description": "Vive unas vacaciones de otro mundo en el hotel Nikelodeon y descubre las maravillas que éste destino tiene para ti.",
       "comments": [
@@ -3496,7 +3496,7 @@
       "id": 54,
       "state_id": 9,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/avatar.png",
       "createDate": "1d",
       "name": "Hotel Moon Palace",
       "description": "Ven y conoce las mejores instalaciones, todo para unas vacaciones magníficas: energía, lujo y posibilidades infinitas: comida gourmet, bebidas premium ilimitadas y mucho más.",
@@ -3506,7 +3506,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/1.mp4"
       ],
       "comments": [
         {
@@ -3571,7 +3571,7 @@
       "id": 55,
       "state_id": 9,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-le-blanc/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/avatar.png",
       "createDate": "1d",
       "name": "Holel Le Blanc",
       "likes": 367,
@@ -3580,7 +3580,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
       ],
       "description": "El lujo y la sofisticación le esperan para unas vacaciones como ninguna en nuestro Resorts Le Blanc",
       "comments": [
@@ -3646,7 +3646,7 @@
       "id": 56,
       "state_id": 9,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/avatar.png",
       "createDate": "1d",
       "name": "Hotel Nikelodeon",
       "likes": 367,
@@ -3655,7 +3655,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/1.mp4"
       ],
       "description": "Vive unas vacaciones de otro mundo en el hotel Nikelodeon y descubre las maravillas que éste destino tiene para ti.",
       "comments": [
@@ -3890,7 +3890,7 @@
       "id": 60,
       "state_id": 10,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/avatar.png",
       "createDate": "1d",
       "name": "Hotel Moon Palace",
       "description": "Ven y conoce las mejores instalaciones, todo para unas vacaciones magníficas: energía, lujo y posibilidades infinitas: comida gourmet, bebidas premium ilimitadas y mucho más.",
@@ -3900,7 +3900,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/1.mp4"
       ],
       "comments": [
         {
@@ -3965,7 +3965,7 @@
       "id": 61,
       "state_id": 10,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-le-blanc/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/avatar.png",
       "createDate": "1d",
       "name": "Holel Le Blanc",
       "likes": 367,
@@ -3974,7 +3974,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
       ],
       "description": "El lujo y la sofisticación le esperan para unas vacaciones como ninguna en nuestro Resorts Le Blanc",
       "comments": [
@@ -4040,7 +4040,7 @@
       "id": 62,
       "state_id": 10,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/avatar.png",
       "createDate": "1d",
       "name": "Hotel Nikelodeon",
       "likes": 367,
@@ -4049,7 +4049,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/1.mp4"
       ],
       "description": "Vive unas vacaciones de otro mundo en el hotel Nikelodeon y descubre las maravillas que éste destino tiene para ti.",
       "comments": [
@@ -4284,7 +4284,7 @@
       "id": 66,
       "state_id": 11,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/avatar.png",
       "createDate": "1d",
       "name": "Hotel Moon Palace",
       "description": "Ven y conoce las mejores instalaciones, todo para unas vacaciones magníficas: energía, lujo y posibilidades infinitas: comida gourmet, bebidas premium ilimitadas y mucho más.",
@@ -4294,7 +4294,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/1.mp4"
       ],
       "comments": [
         {
@@ -4359,7 +4359,7 @@
       "id": 67,
       "state_id": 11,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-le-blanc/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/avatar.png",
       "createDate": "1d",
       "name": "Holel Le Blanc",
       "likes": 367,
@@ -4368,7 +4368,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
       ],
       "description": "El lujo y la sofisticación le esperan para unas vacaciones como ninguna en nuestro Resorts Le Blanc",
       "comments": [
@@ -4434,7 +4434,7 @@
       "id": 68,
       "state_id": 11,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/avatar.png",
       "createDate": "1d",
       "name": "Hotel Nikelodeon",
       "likes": 367,
@@ -4443,7 +4443,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/1.mp4"
       ],
       "description": "Vive unas vacaciones de otro mundo en el hotel Nikelodeon y descubre las maravillas que éste destino tiene para ti.",
       "comments": [
@@ -4598,7 +4598,7 @@
       "id": 70,
       "state_id": 12,
       "service_id": 1,
-      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/12-guerrero/lugar-1/avatar.jpeg",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/12-guerrero/lugar-1/avatar.jpg",
       "createDate": "3sem",
       "name": "Acapulco",
       "likes": 456,
@@ -4678,7 +4678,7 @@
       "id": 72,
       "state_id": 12,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/avatar.png",
       "createDate": "1d",
       "name": "Hotel Moon Palace",
       "description": "Ven y conoce las mejores instalaciones, todo para unas vacaciones magníficas: energía, lujo y posibilidades infinitas: comida gourmet, bebidas premium ilimitadas y mucho más.",
@@ -4688,7 +4688,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/1.mp4"
       ],
       "comments": [
         {
@@ -4753,7 +4753,7 @@
       "id": 73,
       "state_id": 12,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-le-blanc/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/avatar.png",
       "createDate": "1d",
       "name": "Holel Le Blanc",
       "likes": 367,
@@ -4762,7 +4762,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
       ],
       "description": "El lujo y la sofisticación le esperan para unas vacaciones como ninguna en nuestro Resorts Le Blanc",
       "comments": [
@@ -4828,7 +4828,7 @@
       "id": 74,
       "state_id": 12,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/avatar.png",
       "createDate": "1d",
       "name": "Hotel Nikelodeon",
       "likes": 367,
@@ -4837,7 +4837,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/1.mp4"
       ],
       "description": "Vive unas vacaciones de otro mundo en el hotel Nikelodeon y descubre las maravillas que éste destino tiene para ti.",
       "comments": [
@@ -4903,9 +4903,9 @@
       "id": 75,
       "state_id": 12,
       "service_id": 3,
-      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/12-guerrero/nautico-1/avatar.jpeg",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/12-guerrero/nautico-1/avatar.jpg",
       "createDate": "1d",
-      "name": "Acapulco",
+      "name": "La Banana",
       "description": "Escapate unos días a Acapulco, le daremos un toque de diversión a tu estancia en este maravilloso puerto. Motos acuáticas, snorkel, kayaks, bananas y pesca",
       "likes": 367,
       "addres": "Guerrero",
@@ -4913,7 +4913,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-de-experiencia/12-guerrero/nauticos-1/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/12-guerrero/nautico-1/1.mp4"
       ],
       "comments": [
         {
@@ -5082,7 +5082,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-de-experiencia/13-baja-california/lugar-2/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/13-baja-california/lugar-2/PlayaBalandra.mp4"
       ],
       "comments": [
         {
@@ -5112,7 +5112,7 @@
       "id": 79,
       "state_id": 13,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/avatar.png",
       "createDate": "1d",
       "name": "Hotel Moon Palace",
       "description": "Ven y conoce las mejores instalaciones, todo para unas vacaciones magníficas: energía, lujo y posibilidades infinitas: comida gourmet, bebidas premium ilimitadas y mucho más.",
@@ -5122,7 +5122,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/1.mp4"
       ],
       "comments": [
         {
@@ -5187,7 +5187,7 @@
       "id": 80,
       "state_id": 13,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-le-blanc/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/avatar.png",
       "createDate": "1d",
       "name": "Holel Le Blanc",
       "likes": 367,
@@ -5196,7 +5196,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-hoteles/2-le-blanc/1.mp4"
       ],
       "description": "El lujo y la sofisticación le esperan para unas vacaciones como ninguna en nuestro Resorts Le Blanc",
       "comments": [
@@ -5262,7 +5262,7 @@
       "id": 81,
       "state_id": 13,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/avatar.png",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/avatar.png",
       "createDate": "1d",
       "name": "Hotel Nikelodeon",
       "likes": 367,
@@ -5271,7 +5271,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/1.mp4"
       ],
       "description": "Vive unas vacaciones de otro mundo en el hotel Nikelodeon y descubre las maravillas que éste destino tiene para ti.",
       "comments": [
@@ -5337,17 +5337,17 @@
       "id": 82,
       "state_id": 13,
       "service_id": 3,
-      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/13-baja-california/nautico-1/avatar.jpeg",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/13-baja-california/nautico-1/avatar.jpg",
       "createDate": "1d",
-      "name": "Playas de los Amantes y del Divorcio",
-      "description": "Pasar unas horas en la playa de los Amantes es el complemento perfecto al tour en barco para ver el arco de Los Cabos. El mismo barco te puede dejar a pie de playa y pasarte a buscar a la hora acordada. Ten en cuenta que el mar suele estar movido, así que no es de fácil acceso para gente con niños pequeños o movilidad reducida. La playa está rodeada de formaciones rocosas impresionantes y, pese a ser muy popular, no es agobiante porque es bastante grande.",
+      "name": "Kayac",
+      "description": "Disfruta los paisajes de Acapulco practicando el kayak. Explora y rema alrededor de la Isla de la Roqueta, ubicada frente a la famosa playa de Caleta.",
       "likes": 367,
       "addres": "Baja California",
       "stars": 4,
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-de-experiencia/13-baja-california/nauticos-1/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/13-baja-california/nautico-1/1.mp4"
       ],
       "comments": [
         {

@@ -7,9 +7,9 @@
       id: 1,
       name: "Hotel Moon Palace",
       picture:
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/avatar.png",
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/avatar.png",
       profileCover:
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/portada.jpg",
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/portada.jpg",
       members: "12k",
       category: "Hotel",
       type: "Publico",
@@ -17,12 +17,12 @@
         {
           id: 1,
           picture:
-            "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/avatar.png",
+            "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/avatar.png",
           createDate: "3min",
           name: "Hotel Moon Palace",
           likes: 367,
           videos: [
-            "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/1.mp4",
+            "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/1.mp4",
           ],
           comments: [
             {
@@ -62,7 +62,7 @@
         {
           id: 2,
           picture:
-            "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-moon-palace/avatar.png",
+            "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/avatar.png",
           createDate: "5hrs",
           name: "Hotel Moon Palace",
           likes: 482,
@@ -111,9 +111,9 @@
       id: 1,
       name: "Holel Le Blanc",
       picture:
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-le-blanc/avatar.png",
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/avatar.png",
       profileCover:
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-le-blanc/portada.jpg",
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/portada.jpg",
       members: "12k",
       category: "Hotel",
       type: "Publico",
@@ -121,11 +121,11 @@
         {
           id: 2,
           picture:
-            "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-le-blanc/avatar.png",
+            "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/avatar.png",
           createDate: "3min",
           name: "Hotel Le Blanc",
           videos: [
-            "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/2-le-blanc/1.mp4",
+            "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/1.mp4",
           ],
           comments: [
             {
@@ -165,7 +165,7 @@
         {
           id: 2,
           picture:
-            "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/1-le-blanc/avatar.png",
+            "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-le-blanc/avatar.png",
           createDate: "5hrs",
           name: "Hotel Le Blanc",
           likes: 482,
@@ -214,9 +214,9 @@
       id: 1,
       name: "Holel Nickelodeon",
       picture:
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/avatar.png",
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/avatar.png",
       profileCover:
-        "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/portada.jpg",
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/portada.jpg",
       members: "12k",
       category: "Hotel",
       type: "Publico",
@@ -224,12 +224,12 @@
         {
           id: 1,
           picture:
-            "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/avatar.png",
+            "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/avatar.png",
           createDate: "3min",
           name: "Hotel Nickelodeon",
           likes: 367,
           videos: [
-            "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/1.mp4",
+            "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/1.mp4",
           ],
           comments: [
             {
@@ -269,7 +269,7 @@
         {
           id: 2,
           picture:
-            "https://www.sicssalab.net/contenido/lugares-experiencia/hoteles/3-nikelodeon/avatar.png",
+            "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/avatar.png",
           createDate: "5hrs",
           name: "Hotel Nickelodeon",
           likes: 482,

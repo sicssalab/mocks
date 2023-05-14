@@ -36,9 +36,9 @@
                     "name": "Hoteles"
                 },
                 {
-                    "id": 2,
-                    "code": "hotel",
-                    "name": "Hoteles"
+                    "id": 3,
+                    "code": "nautico",
+                    "name": "Náuticos"
                 }
             ]
         },
