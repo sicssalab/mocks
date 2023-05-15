@@ -8,7 +8,7 @@
             "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/1-quintana-roo/lugar-2/avatar.jpeg",
             "profileCover": "https://www.sicssalab.net/contenido/lugares-de-experiencia/1-quintana-roo/lugar-2/perfil.jpeg",
             "members": "15k",
-            "category": "Lugar",
+            "category": "Lugar2",
             "type": "Publico",
             "content": [
                 {

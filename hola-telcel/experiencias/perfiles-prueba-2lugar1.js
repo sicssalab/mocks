@@ -4,123 +4,75 @@
     //lugares
         {
             "id": 1,
-            "name": "Xcaret",
-            "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/1-quintana-roo/lugar-1/avatar.jpeg",
-            "profileCover": "https://www.sicssalab.net/contenido/lugares-de-experiencia/1-quintana-roo/lugar-1/perfil.jpeg",
+            "name": "El arco del Tiempo",
+            "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/3-chiapas/lugar-1/avatar.jpeg",
+            "profileCover": "https://www.sicssalab.net/contenido/lugares-de-experiencia/3-chiapas/lugar-1/perfil.jpeg",
             "members": "15k",
-            "category": "Lugar",
+            "category": "Lugar1",
             "type": "Publico",
             "content": [
                 {
                     "id": 1,
-                    "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/1-quintana-roo/lugar-1/avatar.jpeg",
+                    "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/3-chiapas/lugar-1/avatar.jpeg",
                     "createDate": "3min",
                     "name": "Quintana Roo",
                     "likes": 367,
                     "videos": [
-                        "https://www.sicssalab.net/contenido/lugares-de-experiencia/1-quintana-roo/lugar-1/2.mp4"
+                        "https://www.sicssalab.net/contenido/lugares-de-experiencia/3-chiapas/lugar-2/2.mp4"
                     ],
                     "comments": [
                         {
                             "id": 1,
                             "userName": "Cloe Madison",
                             "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/beautiful-woman-red-hair-in-frame-circular-avatar-character-free-vector.webp",
-                            "comment": "una maravilla de lugar",
+                            "comment": "Espectacular!!!! Vale la pena las 3 horas de caminata.",
                             "createDate": "2seg"
                         },
                         {
                             "id": 2,
                             "userName": "Leanne Graham",
                             "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
-                            "comment": "Te recargas de energia. XD",
+                            "comment": "Belleza natural que vale el esfuerzo visitar siempre y cuando respetando la selva y el espacio sin dañar flora y fauna",
                             "createDate": "1hr"
                         },
                         {
                             "id": 3,
                             "userName": "Nicholas Runolfsdottir",
                             "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/5556512.png",
-                            "comment": "¡Que increible lugar",
+                            "comment": "Lugar increíble para los amantes de la naturaleza y la aventura😊👍",
                             "createDate": "4hrs"
                         },
-                        {
-                            "id": 4,
-                            "userName": "Glenna Reichert",
-                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/beautiful-latin-woman-avatar-character-icon-free-vector.jpg",
-                            "comment": "las artesanias son preciosas",
-                            "createDate": "7hrs"
-                        },
-                        {
-                            "id": 5,
-                            "userName": "Maxime Nienow",
-                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/5556549.png",
-                            "comment": "¡Que buen sitio para vacacionar",
-                            "createDate": "12hrs"
-                        },
-                        {
-                            "id": 6,
-                            "userName": "Ellsworth Summit",
-                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/beautiful-woman-red-hair-in-frame-circular-avatar-character-free-vector.webp",
-                            "comment": "que lindo lugar, me gusta mucho visitarlo",
-                            "createDate": "1d"
-                        },
-                        {
-                            "id": 7,
-                            "userName": "Elwyn Skiles",
-                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
-                            "comment": "saludos desde Canada",               
-                            "createDate": "2d"
-                        },
-                        {
-                            "id": 8,
-                            "userName": "Glenna Reichert",
-                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/placeholder.png",
-                            "comment": "Es un buen destino turístico",
-                            "createDate": "5d"
-                        },
-                        {
-                            "id": 9,
-                            "userName": "Clementina DuBuque",
-                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/3641963.png",
-                            "comment": "Volvere en las próximas vacaciones",
-                            "createDate": "1sem"
-                        },
-                        {
-                            "id": 10,
-                            "userName": "Ervin Howell",
-                            "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/images.png",
-                            "comment": "Excelente lugar para visitar",
-                            "createDate": "3sem"
-                        }
+                      
                     ]
                 },
                 {
                     "id": 2,
-                    "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/1-quintana-roo/lugar-1/avatar.jpeg",
+                    "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/3-chiapas/lugar-1/avatar.jpeg",
                     "createDate": "5hrs",
                     "name": "Xcaret",
                     "likes": 482,
                     "videos": [],
-                    "description": "Enamórate de México en más de 50 atractivos rodeados de selva, ríos subterráneos y el Mar Caribe. Disfruta de danzas típicas mexicanas, zonas arqueológicas y la presentación de Xcaret México Espectacular. ",
+                    "description": "Un arco de piedra natural de 180 metros de altura, uno de los más grandes del mundo en su género ubicado en el cañón del río La Venta de Cintalapa, el cañón es una barranca de 80 kilómetros de largo con paredes de hasta 400 metros de altura y angosturas en ocasiones de tan sólo 10 metros, en él se pueden encontrar cuevas y cascadas en sus paredes y miradores.",
                     "comments": [
                         {
                             "id": 1,
                             "userName": "Cloe Weissnat",
                             "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/beautiful-woman-red-hair-in-frame-circular-avatar-character-free-vector.webp",
-                            "comment": "Hermoso lugar para disfrutar todo un día... y aún asi faltan 3 dias mas para recorrerlo completo... volveré muy pronto... totalmente recomendable",
+                            "comment": "👌 excelente experiencia,lla visita fue única y espectacular, volvería de nuevo a ir con ellos. ",
                             "createDate": "2seg"
                         },
                         {
                             "id": 2,
                             "userName": "Philip Thomson",
                             "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/5556549.png",
-                            "comment": "Maravilloso lugar espero poder ir pronto Hermosos lugares!",
+                            "comment": "Una de las mejores experiencias que he tenido en mis viajes, 100% recomendable, no hay duda que es la mejor empresa de turismo de aventura. ¡Este lugar es alucinante! Las fotos no le hacen justicia, es una belleza inigualable.",
                             "createDate": "1hr"
                         },
                         {
                             "id": 3,
                             "userName": "Henrry Marck",
                             "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/5556512.png",
-                            "comment": "¡Que increible lugar",
+                            "comment": "Es un viaje muy pesado pero que vale muchísimo la pena, toda una experiencia llena de aventura.😊👍",
                             "createDate": "4hrs"
                         }
                     ]

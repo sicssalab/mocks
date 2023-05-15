@@ -30,7 +30,7 @@
               "picture":
                 "https://social-network.sicssa-lab.com/assets/images/avatars/5556512.png",
               "comment": "Un hotel muy lujoso!",
-              "createDate": "3min",
+              "createDate": "3min"
             },
             {
               "id": 2,
@@ -38,7 +38,7 @@
               "picture":
                 "https://social-network.sicssa-lab.com/assets/images/avatars/beautiful-latin-woman-avatar-character-icon-free-vector.jpg",
               "comment": "Me encanta el servicio que brindan",
-              "createDate": "7min",
+              "createDate": "7min"
             },
             {
               "id": 3,
@@ -46,7 +46,7 @@
               "picture":
                 "https://social-network.sicssa-lab.com/assets/images/avatars/5556549.png",
               "comment": "De lujo",
-              "createDate": "18min",
+              "createDate": "18min"
             },
             {
               "id": 4,
@@ -54,9 +54,9 @@
               "picture":
                 "https://social-network.sicssa-lab.com/assets/images/avatars/beautiful-woman-red-hair-in-frame-circular-avatar-character-free-vector.webp",
               "comment": "el nivel de atención de este hotel es excelente",
-              "createDate": "5hrs",
-            },
-          ],
+              "createDate": "5hrs"
+            }
+          ]
         },
         {
           "id": 2,
@@ -75,7 +75,7 @@
               "picture":
                 "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
               "comment": "Mis vacaiones fuerón excelentes, volveremos",
-              "createDate": "7hrs",
+              "createDate": "7hrs"
             },
             {
               "id": 2,
@@ -83,7 +83,7 @@
               "picture":
                 "https://social-network.sicssa-lab.com/assets/images/avatars/placeholder.png",
               "comment": "Aquí no hace falta nada, comodidad 100%",
-              "createDate": "9hrs",
+              "createDate": "9hrs"
             },
             {
               "id": 3,
@@ -91,7 +91,7 @@
               "picture":
                 "https://social-network.sicssa-lab.com/assets/images/avatars/3641963.png",
               "comment": "De los mejores hoteles en los que eh estado.",
-              "createDate": "11hrs",
+              "createDate": "11hrs"
             },
             {
               "id": 4,
@@ -99,9 +99,9 @@
               "picture":
                 "https://social-network.sicssa-lab.com/assets/images/avatars/images.png",
               "comment": "Me encanta este Hotel, es mi favorito.",
-              "createDate": "1d",
-            },
-          ],
+              "createDate": "1d"
+            }
+          ]
         }
       ]
     },
@@ -201,10 +201,10 @@
               "picture":
                 "https://social-network.sicssa-lab.com/assets/images/avatars/images.png",
               "comment": "Excelente hotel y sercio, ya es la tercera vez que lo visito.",
-              "createDate": "1d",
-            },
-          ],
-        },
+              "createDate": "1d"
+            }
+          ]
+        }
       ]
     },
     {
@@ -259,9 +259,9 @@
               "picture":
                 "https://social-network.sicssa-lab.com/assets/images/avatars/beautiful-woman-red-hair-in-frame-circular-avatar-character-free-vector.webp",
               "comment": "Los niños viven en otro mundo en cuanto entran",
-              "createDate": "5hrs",
-            },
-          ],
+              "createDate": "5hrs"
+            }
+          ]
         },
         {
           "id": 2,
@@ -304,9 +304,9 @@
               "picture":
                 "https://social-network.sicssa-lab.com/assets/images/avatars/images.png",
               "comment": "De verdad el hotel entero es otro mundo!",
-              "createDate": "1d",
-            },
-          ],
+              "createDate": "1d"
+            }
+          ]
         }
       ]
     },
