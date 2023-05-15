@@ -457,7 +457,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-de-experiencia/1-quintana-roo/nauticos-1/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/1-quintana-roo/nautico-1/1.mp4"
       ],
       "comments": [
         {
@@ -923,7 +923,7 @@
       "id": 14,
       "state_id": 2,
       "service_id": 3,
-      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/2-mexico/nautico-1/avatar.jpeg",
+      "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/2-mexico/nautico-1/avatar.jpg",
       "createDate": "1d",
       "name": "Las Trajineras",
       "description": "Xochimilco: Cuando uno piensa en México, piensa en colores vivos, mariachis y cactus. ¿Es un cliché? ¡Pues no tanto! Son parte importante de la cultura mexicana y puedes encontrarlos en el barrio de Xochimilco: ¡una visita obligada en la Ciudad de México! ",
@@ -933,7 +933,7 @@
       "streaming": "",
       "hasActiveStreaming": false,
       "videos": [
-        "https://www.sicssalab.net/contenido/lugares-de-experiencia/2-mexico/nauticos-1/1.mp4"
+        "https://www.sicssalab.net/contenido/lugares-de-experiencia/2-mexico/nautico-1/1.mp4"
       ],
       "comments": [
         {
