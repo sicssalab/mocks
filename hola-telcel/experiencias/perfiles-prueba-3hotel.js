@@ -161,7 +161,7 @@
         {
           "id": 2,
           "picture":
-            "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-le-blanc/avatar.png",
+          "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/avatar.png",
           "createDate": "5hrs",
           "name": "Hotel Le Blanc",
           "likes": 482,
@@ -207,7 +207,7 @@
     },
     {
       "id": 20,
-      "name": "Holel Nickelodeon",
+      "name": "Holel Nikelodeon",
       "picture":
         "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/avatar.png",
       "profileCover":
