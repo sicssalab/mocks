@@ -106,31 +106,29 @@
       ]
     },
     {
-      "id": 1,
+      "id": 5,
       "name": "Holel Le Blanc",
       "picture":
         "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/avatar.png",
-      "profileCover":
-        "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/portada.jpg",
+      "profileCover": "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/portada.jpg",
       "members": "12k",
       "category": "Hotel",
       "type": "Publico",
       "content": [
         {
-          "id": 2,
+          "id": 1,
           "picture":
             "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/avatar.png",
           "createDate": "3min",
           "name": "Hotel Le Blanc",
           "videos": [
-            "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/1.mp4",
+            "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/2-le-blanc/1.mp4"
           ],
           "comments": [
             {
               "id": 1,
               "userName": "Henrry Rockford",
-              "picture":
-                "https://social-network.sicssa-lab.com/assets/images/avatars/5556512.png",
+              "picture":"https://social-network.sicssa-lab.com/assets/images/avatars/5556512.png",
               "comment": "Un hotel bastante agradable.",
               "createDate": "3min"
             },
@@ -177,7 +175,7 @@
               "picture":
                 "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
               "comment": "Sin duda me cambio el ánimo, necesitaba comodidad y descanso.",
-              "createDate": "7hrs",
+              "createDate": "7hrs"
             },
             {
               "id": 2,
@@ -185,7 +183,7 @@
               "picture":
                 "https://social-network.sicssa-lab.com/assets/images/avatars/placeholder.png",
               "comment": "Este hotel es excelente, volveremos pronto.",
-              "createDate": "9hrs",
+              "createDate": "9hrs"
             },
             {
               "id": 3,
@@ -193,7 +191,7 @@
               "picture":
                 "https://social-network.sicssa-lab.com/assets/images/avatars/3641963.png",
               "comment": "Una gran experiencia, todo bien.",
-              "createDate": "11hrs",
+              "createDate": "11hrs"
             },
             {
               "id": 4,

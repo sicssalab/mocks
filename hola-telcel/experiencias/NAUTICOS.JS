@@ -3,15 +3,15 @@
            {
                "id": 1,
                "name": "Snorkel",
-               "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/1-quintana-roo/nautico-1/avatar.jpeg",
-               "profileCover": "https://www.sicssalab.net/contenido/lugares-de-experiencia/1-quintana-roo/nautico-1/perfil.jpeg",
+               "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/1-quintana-roo/nautico-1/avatar.jpg",
+               "profileCover": "https://www.sicssalab.net/contenido/lugares-de-experiencia/1-quintana-roo/nautico-1/perfil.jpg",
                "members": "18k",
                "category": "Náutico",
                "type": "Publico",
                "content": [
                    {
                        "id": 1,
-                       "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/1-quintana-roo/nautico-1/avatar.jpeg",
+                       "picture": "https://www.sicssalab.net/contenido/lugares-de-experiencia/1-quintana-roo/nautico-1/avatar.jpg",
                        "createDate": "3min",
                        "name": "Snorkel",
                        "likes": 367,
