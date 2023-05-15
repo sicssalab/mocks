@@ -21,7 +21,7 @@
           "name": "Hotel Moon Palace",
           "likes": 367,
           "videos": [
-            "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/1.mp4",
+            "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/1-moon-palace/1.mp4"
           ],
           "comments": [
             {
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": 20,
       "name": "Holel Nickelodeon",
       "picture":
         "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/avatar.png",
@@ -224,7 +224,7 @@
           "name": "Hotel Nickelodeon",
           "likes": 367,
           "videos": [
-            "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/1.mp4",
+            "https://www.sicssalab.net/contenido/lugares-de-experiencia/hoteles/3-nikelodeon/1.mp4"
           ],
           "comments": [
             {
@@ -233,7 +233,7 @@
               "picture":
                 "https://social-network.sicssa-lab.com/assets/images/avatars/5556512.png",
               "comment": "Un hotel increíble, sin lugar a dudas!.",
-              "createDate": "3min",
+              "createDate": "3min"
             },
             {
               "id": 2,
@@ -241,7 +241,7 @@
               "picture":
                 "https://social-network.sicssa-lab.com/assets/images/avatars/beautiful-latin-woman-avatar-character-icon-free-vector.jpg",
               "comment": "Muy original y súper dívertido :P",
-              "createDate": "7min",
+              "createDate": "7min"
             },
             {
               "id": 3,
@@ -249,7 +249,7 @@
               "picture":
                 "https://social-network.sicssa-lab.com/assets/images/avatars/5556549.png",
               "comment": "Este hotel no deja de impresionarme",
-              "createDate": "18min",
+              "createDate": "18min"
             },
             {
               "id": 4,
@@ -278,7 +278,7 @@
               "picture":
                 "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
               "comment": "Todo se ve súper atractivo para los niños",
-              "createDate": "7hrs",
+              "createDate": "7hrs"
             },
             {
               "id": 2,
@@ -286,7 +286,7 @@
               "picture":
                 "https://social-network.sicssa-lab.com/assets/images/avatars/placeholder.png",
               "comment": "Aquí se te va el tiempo rápido.",
-              "createDate": "9hrs",
+              "createDate": "9hrs"
             },
             {
               "id": 3,
@@ -294,7 +294,7 @@
               "picture":
                 "https://social-network.sicssa-lab.com/assets/images/avatars/3641963.png",
               "comment": "De los mejores hoteles en los que eh estado.",
-              "createDate": "11hrs",
+              "createDate": "11hrs"
             },
             {
               "id": 4,
@@ -304,9 +304,9 @@
               "comment": "De verdad el hotel entero es otro mundo!",
               "createDate": "1d"
             }
-          ]
+          ]        
         }
       ]
-    },
+    }
   ];
 }
