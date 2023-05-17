@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "service_id": 1,
+      "picture": "https://www.sicssalab.net/contenido-rh/2-capacitaciones/1-cursos/avatar.jpeg",
+      "createDate": "3min",
+      "name": "Curso intencivo de principiante a Experto!",
+      "likes": 456,
+      "description": "Atrévete a crecer y exponenciar tus capacitades con estos cursos!",
+      "address": "",
+      "stars": 5,
+      "streaming": "",
+      "hasActiveStreaming": false,
+      "videos": [
+        "https://www.sicssalab.net/contenido-rh/2-capacitaciones/1-cursos/1.mp4"
+      ],
+      "comments": [
+        {
+          "id": 1,
+          "userName": "Kurtis Weissnat",
+          "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/placeholder.png",
+          "comment": "Este curso me ayudo bastante, deberian verlo todos",
+          "createDate": "7seg"
+        },
+        {
+          "id": 2,
+          "userName": "Leanne Graham",
+          "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/3641963.png",
+          "comment": "Wao! que maravilla, eh aprendido mucho",
+          "createDate": "1min"
+        },
+        {
+          "id": 3,
+          "userName": "Nicholas Runolfsdottir",
+          "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/5556512.png",
+          "comment": "Este curso esta muy bueno, lo debí ver antes",
+          "createDate": "6min"
+        },
+        {
+          "id": 4,
+          "userName": "Glenna Reichert",
+          "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/beautiful-latin-woman-avatar-character-icon-free-vector.jpg",
+          "comment": "Excelentes consejos 😊👌",
+          "createDate": "20min"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "service_id": 2,
+      "picture": "https://www.sicssalab.net/contenido-rh/2-capacitaciones/1-cursos/avatar.jpeg",
+      "createDate": "3min",
+      "name": "Capacitación de áreas vulnerables a fortalezas inquebrantables!",
+      "likes": 456,
+      "description": "Capacitate y refuerza en las áreas más vulnerables con este módulo",
+      "address": "",
+      "stars": 5,
+      "streaming": "",
+      "hasActiveStreaming": false,
+      "videos": [
+        "https://www.sicssalab.net/contenido-rh/2-capacitaciones/2-capacitaciones/1.mp4"
+      ],
+      "comments": [
+        {
+          "id": 1,
+          "userName": "Kurtis Weissnat",
+          "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/placeholder.png",
+          "comment": "Este capacitación me ayudo bastante a entender dudas que siempre tuve",
+          "createDate": "7seg"
+        },
+        {
+          "id": 2,
+          "userName": "Leanne Graham",
+          "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/3641963.png",
+          "comment": "Ya quiero ver el contenido del próximo modulo, este tema me gusto mucho",
+          "createDate": "1min"
+        },
+        {
+          "id": 3,
+          "userName": "Nicholas Runolfsdottir",
+          "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/5556512.png",
+          "comment": "Esta capacitación llego a mi en el momento adecuado.",
+          "createDate": "6min"
+        },
+        {
+          "id": 4,
+          "userName": "Glenna Reichert",
+          "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/beautiful-latin-woman-avatar-character-icon-free-vector.jpg",
+          "comment": "Excelentes contenidos, muchas gracias 😊👌",
+          "createDate": "20min"
+        }
+      ]
+    }
+  ]
+}

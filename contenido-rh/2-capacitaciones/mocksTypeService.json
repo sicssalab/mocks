@@ -1,0 +1,12 @@
+{
+    "data":[{
+        "id": 1,
+        "code": "curso",
+        "name": "Cursos"
+    },
+    {
+        "id": 2,
+        "code": "capacitacion",
+        "name": "Capacitaciones"
+    }]
+}
