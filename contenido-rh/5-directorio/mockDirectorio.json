@@ -2,34 +2,34 @@
     "data": [
         {
             "id": 1,
-            "picture": "https://www.sicssalab.net/contenido-rh/3-beneficios/16-prestamos-sobre-la-nomina/avatar.jpg",
+            "picture": "https://www.sicssalab.net/contenido-rh/5-directorio/avatar.jpg",
             "createDate": "3min",
-            "name": "Préstamos sobre la nómina!!",
-            "description": "Mira éstos beneficios que tienes por formar parte de nosotros 🇧🇷",
+            "name": "Dirección de Finanzas",
+            "description": "Comunicate con el departamento de Finanzas aquí",
             "likes": 967,
             "videos": [
-                "https://www.sicssalab.net/contenido-rh/3-beneficios/16-prestamos-sobre-la-nomina/1.mp4"
+                "https://www.sicssalab.net/contenido-rh/5-directorio/1.mp4"
             ],
             "comments": [
                 {
                     "id": 1,
                     "userName": "Leanne Graham",
                     "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
-                    "comment": "Que buen contenido bro!! no sabía que podíamos gozar de estos beneficios 🤟",
+                    "comment": "ya logre despejar mis dudas 🤟",
                     "createDate": "2seg"
                 },
                 {
                     "id": 2,
                     "userName": "Bret",
                     "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/placeholder.png",
-                    "comment": "siempre encuentro todo para mi, Gracias XD",
+                    "comment": "Gracias por las aclaraciones y los tips XD",
                     "createDate": "1hr"
                 },
                 {
                     "id": 3,
                     "userName": "Ervin Howell",
                     "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/5556512.png",
-                    "comment": "Esto si es un préstamo con bajos intereses, bravo! 👏👏👏",
+                    "comment": "Esta información es muy útil, bravo! 👏👏👏",
                     "createDate": "4hrs"
                 },
                 {
@@ -43,55 +43,55 @@
                     "id": 5,
                     "userName": "Victor Plains",
                     "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/5556549.png",
-                    "comment": "De lujo",
+                    "comment": "De lujo, esta duda siempre fué mi dolor de cabeza, gracias :D",
                     "createDate": "12hrs"
                 }
             ]
         },
         {
             "id": 2,
-            "picture": "https://www.sicssalab.net/contenido-rh/3-beneficios/17-descuentos-y-beneficios/avatar.jpeg",
+            "picture": "https://www.sicssalab.net/contenido-rh/5-directorio/avatar.jpg",
             "createDate": "3min",
-            "name": "Descuentos y Beneficios!!",
-            "description": "Mira éstos descuentos y beneficios que tienes por formar parte de nosotros 🇧🇷",
+            "name": "Dirección de Tecnologías de Información",
+            "description": "Te estas peleando con la técnología? Comunicate con el departamento de TI aquí",
             "likes": 967,
             "videos": [
-                "https://www.sicssalab.net/contenido-rh/3-beneficios/17-descuentos-y-beneficios/1.mp4"
+                "https://www.sicssalab.net/contenido-rh/5-directorio/2.mp4"
             ],
             "comments": [
                 {
                     "id": 1,
                     "userName": "Leanne Graham",
                     "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/png-clipart-advertising-service-blog-internet-avatar-woman-face-black-hair.png",
-                    "comment": "Que buen contenido bro!! no sabía que podíamos gozar de estos descuentos 🤟",
+                    "comment": "ya logre despejar mis dudas 🤟",
                     "createDate": "2seg"
                 },
                 {
                     "id": 2,
                     "userName": "Bret",
                     "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/placeholder.png",
-                    "comment": "siempre encuentro todo para mi, Gracias XD",
+                    "comment": "Gracias por las aclaraciones y los tips XD",
                     "createDate": "1hr"
                 },
                 {
                     "id": 3,
                     "userName": "Ervin Howell",
                     "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/5556512.png",
-                    "comment": "Estos son super beneficios, bravo! 👏👏👏",
+                    "comment": "Esta información es muy útil, bravo! 👏👏👏",
                     "createDate": "4hrs"
                 },
                 {
                     "id": 4,
                     "userName": "Antonette",
                     "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/beautiful-latin-woman-avatar-character-icon-free-vector.jpg",
-                    "comment": "Donde se encuentra eso??",
+                    "comment": "Que maravilla",
                     "createDate": "7hrs"
                 },
                 {
                     "id": 5,
                     "userName": "Victor Plains",
                     "picture": "https://social-network.sicssa-lab.com/assets/images/avatars/5556549.png",
-                    "comment": "De lujo",
+                    "comment": "De lujo, esta duda siempre fué mi dolor de cabeza, gracias :D",
                     "createDate": "12hrs"
                 }
             ]
