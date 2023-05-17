@@ -3,7 +3,7 @@
     {
       "id": 1,
       "service_id": 1,
-      "picture": "https://www.sicssalab.net/contenido-rh/2-capacitaciones/1-cursos/avatar.jpeg",
+      "picture": "https://www.sicssalab.net/contenido-rh/2-capacitaciones/1-cursos/avatar.jpg",
       "createDate": "3min",
       "name": "Curso intencivo de principiante a Experto!",
       "likes": 456,
@@ -49,7 +49,7 @@
     {
       "id": 2,
       "service_id": 2,
-      "picture": "https://www.sicssalab.net/contenido-rh/2-capacitaciones/1-cursos/avatar.jpeg",
+      "picture": "https://www.sicssalab.net/contenido-rh/2-capacitaciones/2-capacitaciones/avatar.png",
       "createDate": "3min",
       "name": "Capacitación de áreas vulnerables a fortalezas inquebrantables!",
       "likes": 456,
