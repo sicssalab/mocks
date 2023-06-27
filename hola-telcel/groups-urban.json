@@ -100,13 +100,13 @@
                 },
                 {
                     "id": 3,
-                    "picture": "https://social-network.sicssa-lab.com/assets/mocks/1-Street-turbo/grupo/1-pirelli/AvatarPirelli.svg.png",
+                    "picture": "https://www.sicssalab.net/contenido/entretenimiento/1-street-turbo/grupo/1-pirelli/avatar.png",
                     "createDate": "3sem",
                     "name": "Pirelli llantas",
                     "description": "Los mejores conductores usan LLantas Pirelli",
                     "likes": 456,
                     "videos": [
-                        "https://social-network.sicssa-lab.com/assets/mocks/1-Street-turbo/grupo/1-pirelli/2-pirelli.mp4"
+                        "https://www.sicssalab.net/contenido/entretenimiento/1-street-turbo/grupo/1-pirelli/2.mp4"
                     ],
                     "comments": [
                         {
@@ -266,13 +266,13 @@
                 },
                 {
                     "id": 5,
-                    "picture": "https://social-network.sicssa-lab.com/assets/mocks/1-Street-turbo/grupo/2-autozone/AvatarAutozone.webp",
+                    "picture": "https://www.sicssalab.net/contenido/entretenimiento/1-street-turbo/grupo/2-autozone/avatar.png",
                     "createDate": "3sem",
                     "name": "Autozone",
                     "likes": 456,
                     "description": "Las mejores refacciones y productos para tu auto!",
                     "videos": [
-                        "https://social-network.sicssa-lab.com/assets/mocks/1-Street-turbo/grupo/2-autozone/1-Autozone.mp4"
+                        "https://www.sicssalab.net/contenido/entretenimiento/1-street-turbo/grupo/2-autozone/1.mp4"
                     ],
                     "comments": [
                         {
@@ -349,13 +349,13 @@
                 },
                 {
                     "id": 6,
-                    "picture": "https://social-network.sicssa-lab.com/assets/mocks/1-Street-turbo/grupo/3-taller/AvatarMexicanicos.jpg",
+                    "picture": "https://www.sicssalab.net/contenido/entretenimiento/1-street-turbo/grupo/3-taller/avatar.jpg",
                     "createDate": "3sem",
                     "name": "Taller mecanico",
                     "likes": 456,
                     "description": "Disfruta de un servicio Integral total en cada taller Mexicanico.",
                     "videos": [
-                        "https://social-network.sicssa-lab.com/assets/mocks/1-Street-turbo/grupo/3-taller/3-taller.mp4"
+                        "https://www.sicssalab.net/contenido/entretenimiento/1-street-turbo/grupo/3-taller/3.mp4"
                     ],
                     "comments": [
                         {
@@ -432,14 +432,14 @@
                 },
                 {
                     "id": 7,
-                    "picture": "https://social-network.sicssa-lab.com/assets/mocks/1-Street-turbo/grupo/4-tunea/AvatarTunea.jpg",
+                    "picture": "https://www.sicssalab.net/contenido/entretenimiento/1-street-turbo/grupo/4-tunea/avatar.jpg",
                     "createDate": "3sem",
                     "name": "Tunea tu carro",
                     "likes": 456,
                     "type": "video",
                     "description": "Modifica tu auto, nosotros te ayúdamos!",
                     "videos": [
-                        "https://social-network.sicssa-lab.com/assets/mocks/1-Street-turbo/grupo/4-tunea/3-tunea.mp4"
+                        "https://www.sicssalab.net/contenido/entretenimiento/1-street-turbo/grupo/4-tunea/3.mp4"
                     ],
                     "comments": [
                         {
@@ -601,12 +601,12 @@
                 },
                 {
                     "id": 9,
-                    "picture": "https://social-network.sicssa-lab.com/assets/mocks/5-Animal-Cool/grupo/1-petco/Avatar.jpeg",
+                    "picture": "https://www.sicssalab.net/contenido/entretenimiento/5-animal-cool/grupo/1-petco/avatar.jpeg",
                     "createDate": "3min",
                     "name": "Petco",
                     "likes": 367,
                     "videos": [
-                        "https://social-network.sicssa-lab.com/assets/mocks/5-Animal-Cool/grupo/1-petco/1.mp4"
+                        "https://www.sicssalab.net/contenido/entretenimiento/5-animal-cool/grupo/1-petco/1.mp4"
                     ],
                     "comments": [
                         {
@@ -669,12 +669,12 @@
                 },
                 {
                     "id": 10,
-                    "picture": "https://social-network.sicssa-lab.com/assets/mocks/5-Animal-Cool/grupo/2-veterinario/Avatar.png",
+                    "picture": "https://www.sicssalab.net/contenido/entretenimiento/5-animal-cool/grupo/2-veterinario/avatar.png",
                     "createDate": "7hrs",
                     "name": "Veterinario",
                     "likes": 367,
                     "videos": [
-                        "https://social-network.sicssa-lab.com/assets/mocks/5-Animal-Cool/grupo/2-veterinario/2.mp4"
+                        "https://www.sicssalab.net/contenido/entretenimiento/5-animal-cool/grupo/2-veterinario/2.mp4"
                     ],
                     "description": "tips, consejos de cuidado para prevenir enfermedades en tu más",
                     "comments": [
@@ -738,12 +738,12 @@
                 },
                 {
                     "id": 11,
-                    "picture": "https://social-network.sicssa-lab.com/assets/mocks/5-Animal-Cool/grupo/3-fundacion/Avatar.png",
+                    "picture": "https://www.sicssalab.net/contenido/entretenimiento/5-animal-cool/grupo/3-fundacion/avatar.png",
                     "createDate": "9hrs",
                     "name": "Fundación",
                     "likes": 367,
                     "videos": [
-                        "https://social-network.sicssa-lab.com/assets/mocks/5-Animal-Cool/grupo/3-fundacion/2.mp4"
+                        "https://www.sicssalab.net/contenido/entretenimiento/5-animal-cool/grupo/3-fundacion/2.mp4"
                     ],
                     "description": "Fundación Angeles peludos te invita a conocer como aportar o ayudar de la fomra en que sean tus posibilidades.",
                     "comments": [
@@ -807,12 +807,12 @@
                 },
                 {
                     "id": 12,
-                    "picture": "https://social-network.sicssa-lab.com/assets/mocks/5-Animal-Cool/grupo/4-maskota/Avatar.jpeg",
+                    "picture": "https://www.sicssalab.net/contenido/entretenimiento/5-animal-cool/grupo/4-maskota/avatar.jpeg",
                     "createDate": "11hrs",
                     "name": "Maskota",
                     "likes": 367,
                     "videos": [
-                        "https://social-network.sicssa-lab.com/assets/mocks/5-Animal-Cool/grupo/4-maskota/1.mp4"
+                        "https://www.sicssalab.net/contenido/entretenimiento/5-animal-cool/grupo/1.mp4"
                     ],
                     "description": "Ven a visitar nuestras tiendas y conoce todas nuestras especies y variedad de productos.",
                     "comments": [
@@ -1031,13 +1031,13 @@
                 },
                 {
                     "id": 22,
-                    "picture": "https://social-network.sicssa-lab.com/assets/mocks/2-Medical-network/grupo/1-Farmacias-del-ahorro/Avatar.jpg",
+                    "picture": "https://www.sicssalab.net/contenido/entretenimiento/2-medical-network/grupo/1-farmacias-ahorro/avatar.jpg",
                     "createDate": "3min",
                     "name": "Farmacias del ahorro",
                     "description": "En farmacias del ahorro te queremos bien, ven y visitanos!",
                     "likes": 367,
                     "videos": [
-                        "https://social-network.sicssa-lab.com/assets/mocks/2-Medical-network/grupo/1-Farmacias-del-ahorro/1.mp4"
+                        "https://www.sicssalab.net/contenido/entretenimiento/2-medical-network/grupo/1-farmacias-ahorro/1.mp4"
                     ],
                     "comments": [
                         {
@@ -1169,12 +1169,12 @@
                 },
                 {
                     "id": 24,
-                    "picture": "https://social-network.sicssa-lab.com/assets/mocks/2-Medical-network/grupo/2-Super-Doc/Avatar.png",
+                    "picture": "https://www.sicssalab.net/contenido/entretenimiento/2-medical-network/grupo/2-super-doc/avatar.png",
                     "createDate": "7hrs",
                     "name": "Super Doc",
                     "likes": 367,
                     "videos": [
-                        "https://social-network.sicssa-lab.com/assets/mocks/2-Medical-network/grupo/2-Super-Doc/1.mp4"
+                        "https://www.sicssalab.net/contenido/entretenimiento/2-medical-network/grupo/1-farmacias-ahorro/1.mp4"
                     ],
                     "description": "Contamos con la colaboración de un Consejo Médico del más alto nivel, el cual aporta su conocimiento, así como supervisa la operación en cada fase del del programa.",
                     "comments": [
@@ -1238,12 +1238,12 @@
                 },
                 {
                     "id": 25,
-                    "picture": "https://social-network.sicssa-lab.com/assets/mocks/2-Medical-network/grupo/3-Chopo/Avatar.jpg",
+                    "picture": "https://www.sicssalab.net/contenido/entretenimiento/2-medical-network/grupo/3-chopo/avatar.jpg",
                     "createDate": "9hrs",
                     "name": "Chopo",
                     "likes": 367,
                     "videos": [
-                        "https://social-network.sicssa-lab.com/assets/mocks/2-Medical-network/grupo/3-Chopo/1.mp4"
+                        "https://www.sicssalab.net/contenido/entretenimiento/2-medical-network/grupo/3-chopo/1.mp4"
                     ],
                     "description": "En Chopo lo más importante eres tú, por eso te compartimos información relevante sobre nuestras sucursales y servicios.",
                     "comments": [
@@ -1307,12 +1307,12 @@
                 },
                 {
                     "id": 26,
-                    "picture": "https://social-network.sicssa-lab.com/assets/mocks/2-Medical-network/grupo/4-Salud-y-belleza/Avatar.png",
+                    "picture": "https://www.sicssalab.net/contenido/entretenimiento/2-medical-network/grupo/4-salud-belleza/Avatar.png",
                     "createDate": "11hrs",
                     "name": "Salud y belleza",
                     "likes": 367,
                     "videos": [
-                        "https://social-network.sicssa-lab.com/assets/mocks/2-Medical-network/grupo/4-Salud-y-belleza/1.mp4"
+                        "https://www.sicssalab.net/contenido/entretenimiento/2-medical-network/grupo/4-salud-belleza/1.mp4"
                     ],
                     "description": "Ven a visitar nuestras tiendas y conoce todas nuestras especies y variedad de productos.",
                     "comments": [
@@ -1531,13 +1531,13 @@
                 },
                 {
                     "id": 8,
-                    "picture": "https://social-network.sicssa-lab.com/assets/mocks/3-Noticalles/grupo/1-hechos/Avatar.jpg",
+                    "picture": "https://www.sicssalab.net/contenido/entretenimiento/3-noticalles/grupo/1-hechos/avatar.jpg",
                     "createDate": "1d",
                     "name": "Hechos",
                     "description": "Hechos con Javier Alatorre",
                     "likes": 367,
                     "videos": [
-                        "https://social-network.sicssa-lab.com/assets/mocks/3-Noticalles/grupo/1-hechos/2.mp4"
+                        "https://www.sicssalab.net/contenido/entretenimiento/3-noticalles/grupo/1-hechos/2.mp4"
                     ],
                     "comments": [
                         {
@@ -1600,12 +1600,12 @@
                 },
                 {
                     "id": 9,
-                    "picture": "https://social-network.sicssa-lab.com/assets/mocks/3-Noticalles/grupo/2-despierta/Avatar.jpg",
+                    "picture": "https://www.sicssalab.net/contenido/entretenimiento/3-noticalles/grupo/2-despierta/avatar.jpg",
                     "createDate": "1d",
                     "name": "Despierta",
                     "likes": 367,
                     "videos": [
-                        "https://social-network.sicssa-lab.com/assets/mocks/3-Noticalles/grupo/2-despierta/perfil/1.mp4"
+                        "https://www.sicssalab.net/contenido/entretenimiento/3-noticalles/grupo/2-despierta/1.mp4"
                     ],
                     "description": "Análisis sobre las noticias más importantes para el acontecer nacional e internacional",
                     "comments": [
@@ -1669,12 +1669,12 @@
                 },
                 {
                     "id": 8,
-                    "picture": "https://social-network.sicssa-lab.com/assets/mocks/3-Noticalles/grupo/3-milenio/Avatar.jpeg",
+                    "picture": "https://www.sicssalab.net/contenido/entretenimiento/3-noticalles/grupo/3-milenio/avatar.jpeg",
                     "createDate": "1d",
                     "name": "Milenio",
                     "likes": 367,
                     "videos": [
-                        "https://social-network.sicssa-lab.com/assets/mocks/3-Noticalles/grupo/3-milenio/3.mp4"
+                        "https://www.sicssalab.net/contenido/entretenimiento/3-noticalles/grupo/3-milenio/3.mp4"
                     ],
                     "description": "Disfruta de un servicio Integral total en cada taller Mexicanico.",
                     "comments": [
@@ -1742,7 +1742,7 @@
             "id": 4,
             "name": "Formula 1",
             "picture": "https://www.sicssalab.net/contenido/entretenimiento/4-f1/avatar.jpg",
-            "profileCover": "https://social-network.sicssa-lab.com/assets/mocks/4-F1/portada.jpeg",
+            "profileCover": "https://www.sicssalab.net/contenido/entretenimiento/4-f1/portada.jpg",
             "members": "12k",
             "hasPremium": true,
             "information": {
@@ -1825,13 +1825,13 @@
                 },
                 {
                     "id": 21,
-                    "picture": "https://social-network.sicssa-lab.com/assets/mocks/4-F1/grupo/1-Checo/Avatar.jpg",
+                    "picture": "https://www.sicssalab.net/contenido/entretenimiento/4-f1/grupo/1-checo/avatar.jpg",
                     "createDate": "1d",
                     "name": "Checo",
                     "description": "Hola, Como estan amigos? Gracias por todo su apoyo en la carrera de hoy.",
                     "likes": 367,
                     "videos": [
-                        "https://social-network.sicssa-lab.com/assets/mocks/4-F1/grupo/1-Checo/perfil/1.mp4"
+                        "https://www.sicssalab.net/contenido/entretenimiento/4-f1/grupo/1-checo/1.mp4"
                     ],
                     "comments": [
                         {
@@ -1894,12 +1894,12 @@
                 },
                 {
                     "id": 22,
-                    "picture": "https://social-network.sicssa-lab.com/assets/mocks/4-F1/grupo/2-equipos/Avatar.jpg",
+                    "picture": "https://www.sicssalab.net/contenido/entretenimiento/4-f1/grupo/2-equipos/avatar.jpg",
                     "createDate": "1d",
                     "name": "Equipos",
                     "likes": 367,
                     "videos": [
-                        "https://social-network.sicssa-lab.com/assets/mocks/4-F1/grupo/2-equipos/3.mp4"
+                        "https://www.sicssalab.net/contenido/entretenimiento/4-f1/grupo/2-equipos/3.mp4"
                     ],
                     "description": "Aquí te compartimos información de los equipos! ",
                     "comments": [
@@ -2032,12 +2032,12 @@
                 },
                 {
                     "id": 24,
-                    "picture": "https://social-network.sicssa-lab.com/assets/mocks/4-F1/grupo/3-Carreras/Avatar.jpeg",
+                    "picture": "https://www.sicssalab.net/contenido/entretenimiento/4-f1/grupo/3-carreras/avatar.jpeg",
                     "createDate": "1d",
                     "name": "Carreras",
                     "likes": 367,
                     "videos": [
-                        "https://social-network.sicssa-lab.com/assets/mocks/4-F1/grupo/3-Carreras/perfil/1.mp4"
+                        "https://www.sicssalab.net/contenido/entretenimiento/4-f1/grupo/3-carreras/1.mp4"
                     ],
                     "description": "Disfruta de cada carrera siguiendo a tu equipo y conductor favorito.",
                     "comments": [

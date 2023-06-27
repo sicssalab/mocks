@@ -168,7 +168,7 @@
                     "likes": 456,
                     "streaming": "",
                     "hasActiveStreaming": false,
-                    "videos":["https://www.sicssalab.net/contenido//contenido/pueblos-magicos/taxco/5.mp4"],
+                    "videos":["https://www.sicssalab.net/contenido/pueblos-magicos/taxco/5.mp4"],
                     "comments": [
                         {
                             "id": 2,
@@ -377,7 +377,7 @@
                 {
                     "id": 2,
                     "name": "Tepoztlan",
-                    "picture": "https://social-network.sicssa-lab.com/assets/mocks/Pueblos-Magicos/Tepoztlan/Avatar.jpg",
+                    "picture": "https://www.sicssalab.net/contenido/pueblos-magicos/tepoztlan/avatar.jpg",
                     "createDate": "30min",
                     "description": "Pueblo místico que conserva un fuerte sentido de identidad. Enclavado en la parte norte del estado y a 17 km de la ciudad de Cuernavaca, Tepoztlán es el destino turístico favorito en Morelos. Ubicado en una zona natural protegida y en lo alto del cerro sagrado del Tepozteco, se encuentra en la zona arqueológica construida en el siglo XII, que se dedicó al dios de la fertilidad.",
                     "address": "Tepoztlán, Morelos",
@@ -684,7 +684,7 @@
                 {
                     "id": 2,
                     "name": "Zacatlan",
-                    "picture": "https://social-network.sicssa-lab.com/assets/mocks/Pueblos-Magicos/Zacatlan/Avatar.jpg",
+                    "picture": "https://www.sicssalab.net/contenido/pueblos-magicos/zacatlan/avatar.jpg",
                     "createDate": "30min",
                     "description": "textp grande",
                     "address": "Zacatlán, Puebla",
